@@ -10,5 +10,5 @@ dependencies:
   - torchvision
   - cudatoolkit=10.2
   - transformers
-prefix: C:\Users\zach\Anaconda3\envs\arxiv
+  - requests
 
