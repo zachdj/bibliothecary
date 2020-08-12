@@ -1,3 +1,19 @@
+#######################
+### Project Ignores ###
+#######################
+
+# ignore Jetbrains IDEs
+.idea
+
+# ignore data except for sample
+!data/sample.json
+!data/README.md
+data/*.json
+
+##############################
+### Genetic Python Ignores ###
+##############################
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
