@@ -1,0 +1,14 @@
+name: arxiv
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - scikit-learn
+  - numpy
+  - scipy
+  - pytorch
+  - torchvision
+  - cudatoolkit=10.2
+  - transformers
+prefix: C:\Users\zach\Anaconda3\envs\arxiv
+
