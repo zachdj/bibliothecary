@@ -9,6 +9,9 @@
 !data/sample.json
 !data/README.md
 data/*.json
+data/*/*.json
+data/*/*.npy
+data/*/*.pkl
 
 ##############################
 ### Genetic Python Ignores ###
