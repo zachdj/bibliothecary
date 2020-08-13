@@ -9,6 +9,6 @@ dependencies:
   - pytorch
   - torchvision
   - cudatoolkit=10.2
-  - transformers
   - requests
-
+  - pip:
+      - transformers
